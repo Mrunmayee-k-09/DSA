@@ -7,7 +7,7 @@ public:
         int i, j, n;
         n = accounts.size();
         int maxWealth = 0;
-        int richest = 0;
+       
 
         for(i=0; i<n; i++) {
             int sum = 0;
