@@ -1,5 +1,9 @@
 // end() is not actually the last character. It's one position after it.
 
+#include<vector>
+#include<string>
+#include <algorithm>
+using namespace std;
 class Solution {
 public:
     int mostWordsFound(vector<string>& sentences) {
