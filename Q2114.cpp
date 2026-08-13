@@ -1,6 +1,13 @@
 // end() is not actually the last character. It's one position after it.
+<<<<<<< HEAD:Q2047.cpp
 // This one actually Q
 2114 !!!!!
+=======
+#include<vector>
+#include<string>
+#include <algorithm>
+using namespace std;
+>>>>>>> d83ac78 (Add Q14 solution):Q2114.cpp
 
 #include<vector>
 #include<string>
