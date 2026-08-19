@@ -1,3 +1,5 @@
+// Q 15 brute force approach
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
