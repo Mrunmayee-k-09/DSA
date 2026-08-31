@@ -3,7 +3,7 @@
 #include<algorithm>
 #include<climits>
 
-using namespace std;
+using namespace std;Q3
 
 class Solution {
 public:
