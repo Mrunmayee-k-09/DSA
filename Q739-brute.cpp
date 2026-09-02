@@ -1,3 +1,6 @@
+//Time:   O(n²)
+//Space:  O(n)
+
 #include<iostream>
 #include<vector>
 using namespace std;
