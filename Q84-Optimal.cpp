@@ -48,7 +48,7 @@ Iska use ham stack se jo badi values hai, unhe nikalne na kaam karenge}
 while(s.size() > 0 && ht[s.top()] >= ht[i]) {
 s.pop(); }
 
-right[i] = s.empty() ? -1 : s.top();
+right[i] = s.empty() ? n : s.top();
 s.push(i);
 
 Bro now left smaller !
